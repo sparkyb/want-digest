@@ -2,7 +2,7 @@
 
 This Perl module enables support for the Want-Digest header in Nginx.  When a
 client request includes this header, Nginx will generate a checksum using the
-specified algorithm (md5, sha, sha256, and sha512 are supported).
+specified algorithm (md5, sha, sha-256, and sha-512 are supported).
 
 
 ### Status
